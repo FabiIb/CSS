@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 25px;
+}
+
+#card {
+    width: 290px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: #fffffc;
+    font-family: Helvetica;
+    font-size: 15px;
+    color: #212629; 
+}
+
+
+#image {
+    width: 100%;
+    height: auto;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+header h1 {
+    padding: 20px 20px 0px 20px;
+}
+
+
+section p {
+    padding: 20px 20px;
+    border-bottom: 1px solid grey;
+    line-height: 1.5;
+}
+
+section li {
+    border-bottom: 1px solid grey;
+    padding: 15px 20px;
+    list-style: none;
+}
+
+nav {
+    padding: 20px 20px;
+}
+
+nav a {
+    margin-right: 10px;
+    color: #0f428e;
+}
