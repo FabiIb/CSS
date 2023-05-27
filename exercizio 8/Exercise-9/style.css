@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+/*Spero di aver sistemato  la consegna, adesso io li vedo in orizzontale.
+Non so se dovevo fare una nuova media query per il desktop, ho dato per scontato che fosse gia il codice per versione desktop.*/
+
 body {
   padding: 20px;
   display: flex;
